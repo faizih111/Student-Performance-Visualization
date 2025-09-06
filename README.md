@@ -29,14 +29,6 @@ The project visualizes student performance data across different subjects using 
 
 ---
 
-## 🚀 Getting Started
-1. Install Matplotlib (if not already installed):  
-   ```bash
-    pip install matplotlib
-2. Run the Python file to generate the visualizations:
 
-bash
-Copy code
-python main.py
-   pip install matplotlib
+
 
